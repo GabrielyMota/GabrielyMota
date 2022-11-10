@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on front-end Developer
+- 🔭 Front-end
 
+- 🔭 QA
 <!--
 **GabrielyMota/GabrielyMota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
